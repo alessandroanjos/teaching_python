@@ -1,3 +1,7 @@
+# teaching_python
+
+
+
 Aplicação de Console de Carteira de Investimentos
 
 Primeiramente, obrigado por topar este desafio. Desejamos que seja um processo
