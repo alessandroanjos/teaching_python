@@ -4,9 +4,6 @@
 
 Aplicação de Console de Carteira de Investimentos
 
-Primeiramente, obrigado por topar este desafio. Desejamos que seja um processo
-de aprendizado para você.
-
 CONTEXTO:
 
 Ativos financeiros representam a posse de um direito econômico que pode gerar
